@@ -1,0 +1,17 @@
+Phishing Email Sample – Stanford Credential Harvesting Campaign
+Subject: Stanford Action required: Kindly Update Promptly - Employee ID-7597555367237216985958244 
+
+From: username@stanford.edu
+To: username@stanford.edu
+
+Dear User,
+
+An important update is required to maintain access to your Stanford account. Failure to comply may result in service interruption.
+
+Please review the attached document for further instructions.
+📎 Attachment: Stanford.pdf
+
+Act now to ensure uninterrupted access.
+
+Stanford IT Security
+
